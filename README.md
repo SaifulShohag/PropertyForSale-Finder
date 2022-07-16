@@ -1,16 +1,5 @@
-# real_state_finder
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20210919_172227_com example real_state_finder](https://user-images.githubusercontent.com/33428891/179357869-c994e3c2-413a-469b-8cb4-8b7059946a06.jpg)
+![Screenshot_20210919_172302_com example real_state_finder](https://user-images.githubusercontent.com/33428891/179357870-e0a2a4b4-0e18-4242-9350-7315b59c93f5.jpg)
+![Screenshot_20210919_172235_com example real_state_finder](https://user-images.githubusercontent.com/33428891/179357872-16d99888-877a-42b7-82c1-1b9a4e6ca11f.jpg)
+![Screenshot_20210919_172310_com example real_state_finder](https://user-images.githubusercontent.com/33428891/179357877-6f106cb3-f771-467d-b947-7e5b5b66458b.jpg)
+![Screenshot_20210919_172320_com example real_state_finder](https://user-images.githubusercontent.com/33428891/179357882-5e2c59f7-af9b-464c-95c9-57f37e713fda.jpg)
